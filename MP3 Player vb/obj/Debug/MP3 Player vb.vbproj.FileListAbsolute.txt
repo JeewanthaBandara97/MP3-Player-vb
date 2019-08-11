@@ -1,0 +1,19 @@
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\bin\Debug\MP3 Player vb.exe.config
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\bin\Debug\MP3 Player vb.exe
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\bin\Debug\MP3 Player vb.pdb
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\bin\Debug\MP3 Player vb.xml
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\bin\Debug\Interop.WMPLib.dll
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\bin\Debug\AxInterop.WMPLib.dll
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\obj\Debug\Interop.WMPLib.dll
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\obj\Debug\AxInterop.WMPLib.dll
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\obj\Debug\MP3 Player vb.vbproj.ResolveComReference.cache
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\obj\Debug\MP3_Player_vb.Form1.resources
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\obj\Debug\MP3_Player_vb.Resources.resources
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\obj\Debug\MP3 Player vb.vbproj.GenerateResource.Cache
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\obj\Debug\MP3 Player vb.exe
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\obj\Debug\MP3 Player vb.xml
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\obj\Debug\MP3 Player vb.pdb
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\bin\Debug\MP3 Player vb.exe.manifest
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\bin\Debug\MP3 Player vb.application
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\obj\Debug\MP3 Player vb.exe.manifest
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\MP3 Player vb\MP3 Player vb\obj\Debug\MP3 Player vb.application
